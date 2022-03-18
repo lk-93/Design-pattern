@@ -8,5 +8,6 @@ public class Singleton_git {
        //测试
         System.out.println("hello");
         System.out.println("world");
+        System.out.println("我是lk分支");
     }
 }
