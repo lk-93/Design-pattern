@@ -10,6 +10,6 @@ public class Singleton_git {
         System.out.println("world");
         System.out.println("我是lk分支");
         System.out.println("我是main分支");
-
+        System.out.println("lk分支添加一行代码");
     }
 }
